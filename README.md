@@ -1,3 +1,6 @@
+![Docker Image](https://img.shields.io/badge/GHCR-Node-blue?logo=docker)
+[![Build and Push Docker Images](https://github.com/younesmod/docker-nodejs-hello-world/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/younesmod/docker-nodejs-hello-world/actions/workflows/docker-publish.yml)
+[![Scan Docker Image](https://github.com/younesmod/docker-nodejs-hello-world/actions/workflows/scan.yml/badge.svg)](https://github.com/younesmod/docker-nodejs-hello-world/actions/workflows/scan.yml)
 # 🐳 Dockerized To-Do API / Hello World App
 
 A simple Express app that demonstrates how to containerize an application using Docker.
